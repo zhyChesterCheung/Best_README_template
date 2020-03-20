@@ -21,9 +21,9 @@ ProjectName and Description
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">"完美的"README模板</h3>
+  <h3 align="center">"完美的"README中文模板</h3>
   <p align="center">
-    一个"完美的"README模板去快速开始你的项目！
+    一个"完美的"README模板去快速开始你的项目～！
     <br />
     <a href="https://github.com/shaojintian/Best_README_template"><strong>探索本项目的文档 »</strong></a>
     <br />
@@ -38,7 +38,7 @@ ProjectName and Description
 </p>
 
 
- 本篇README.md面向开发者
+ 本篇README.md面向开发者配置
  
 ## 目录
 
@@ -61,12 +61,12 @@ ProjectName and Description
 
 
 
-###### 开发前的配置要求
+##### **开发前的配置要求**
 
 1. xxxxx x.x.x
 2. xxxxx x.x.x
 
-###### **安装步骤**
+##### **安装步骤**
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -108,19 +108,23 @@ filetree
 
 ### 部署
 
-暂无
+```sh
+前端部署
+后台部署
+服务器ip
+```
 
 ### 使用到的框架
 
-- [xxxxxxx](https://getbootstrap.com)
-- [xxxxxxx](https://jquery.com)
-- [xxxxxxx](https://laravel.com)
+- [getbootstrap](https://getbootstrap.com)
+- [jquery](https://jquery.com)
+- [laravel](https://laravel.com)
 
 ### 贡献者
 
 请阅读**CONTRIBUTING.md** 查阅为该项目做出贡献的开发者。
 
-#### 如何参与开源项目
+##### 如何参与开源项目
 
 贡献使开源社区成为一个学习、激励和创造的绝佳场所。你所作的任何贡献都是**非常感谢**的。
 
